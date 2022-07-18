@@ -6,9 +6,6 @@
    <a href="https://github.com/janleigh/dotfiles/issues">
       <img src="https://img.shields.io/github/last-commit/kabinspace/dotfiles?color=9ece6a&labelColor=1C2325&style=for-the-badge">
    </a>
-   <a href="../LICENSE">
-      <img src="https://img.shields.io/github/license/kabinspace/dotfiles?color=ffb29b&labelColor=1C2325&style=for-the-badge">
-   </a>
    <br>
 </div>
 
