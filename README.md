@@ -7,7 +7,7 @@
 
 ## 🌿 Information
 
-<img src="assets/preview.png" alt="Rice Showcase" align="right" width="400px">
+<img src="assets/preview.jpg" alt="Rice Showcase" align="right" width="400px">
 
 - **Operating System:** [endeavouros](https://endeavouros.com)
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
