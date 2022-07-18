@@ -1,8 +1,4 @@
 <div align="center">
-   <p></p>
-   <a href="https://github.com/janleigh/dotfiles/stargazers">
-      <img src="https://img.shields.io/github/repo-size/rebatnaath/personal-bspwm-dots?color=c9cbff&labelColor=1C2325&style=for-the-badge">
-   </a>
    <a href="https://github.com/janleigh/dotfiles/issues">
       <img src="https://img.shields.io/github/last-commit/rebatnaath/personal-bspwm-dots?color=9ece6a&labelColor=1C2325&style=for-the-badge">
    </a>
