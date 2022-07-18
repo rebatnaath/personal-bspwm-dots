@@ -28,3 +28,16 @@
 ### most of this configs here are copy of a copy of a copy and all credits goes to whoever created them.
 - Rofi, Dunst, Kitty  config from [catppuccin](https://github.com/catppuccin/catppuccin) official repo 
 - Polybar config from [artilate](https://github.com/artilate/dotfiles)
+
+
+## 📢 Image in neofetch
+
+### to display image in neofetch read this [doccumentation](https://github.com/dylanaraps/neofetch/wiki/Image-Backends) <br>
+i personally use kitty and the command i use is 
+```sh
+neofetch --kitty --source /path-to-image 
+```
+if the image didn't displayed correctly use 
+```sh
+neofetch --kitty --source /path-to-image --image_size none
+```
