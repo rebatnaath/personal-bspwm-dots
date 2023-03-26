@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://github.com/janleigh/dotfiles/issues">
+   <a href="https://github.com/rebatnaath/personal-bspwm-dots/">
       <img src="https://img.shields.io/github/last-commit/rebatnaath/personal-bspwm-dots?color=9ece6a&labelColor=1C2325&style=for-the-badge">
    </a>
    <br>
